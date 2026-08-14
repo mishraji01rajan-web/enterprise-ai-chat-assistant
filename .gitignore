@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+data_test/
+.env
+*.egg-info/
+.DS_Store
+.claude/
+SUBMISSION_CHECKLIST.md
+DEMO_SCRIPT.md
